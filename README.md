@@ -3,11 +3,7 @@
 We, as data scientists, love encoding knowledge into capsules, 
 and giving them to the machine to mimic human intelligence. 
 This repository contains a collection of [quotes](Quotes.md) about data science that aim to 
-summarize some of the wisdom of practicing data science. 
-
-**What is the purpose?**
-
-What is the purpose of reading?
+summarize some of the wisdom of practicing data science.
 
 **Who can contribute?**
 
