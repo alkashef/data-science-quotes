@@ -1,9 +1,9 @@
-# A collection of quotes about the science of extracting value from data
+# A collection of quotes about the craftsmanship of extracting value from data
 
 We, as data scientists, love encoding knowledge into capsules, 
-and giving them to the machine to mimic human intelligence. 
+and giving them to a machine to mimic human intelligence. 
 This repository contains a collection of [quotes](Quotes.md) about data science that aim to 
-summarize some of the wisdom of practicing data science.
+summarize some of the wisdom of practicing it.
 
 **Who can contribute?**
 
