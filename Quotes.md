@@ -34,3 +34,7 @@ Albert Einstein
 > An expert is a man who has made all the mistakes which can be made, in a narrow field.
 
 Niels Bohr
+
+> The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts.
+
+Bertrand Russell
