@@ -38,3 +38,11 @@ Niels Bohr
 > The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts.
 
 Bertrand Russell
+
+> The only true wisdom is knowing you know nothing.
+
+Socrates
+
+>  "Ignorance more frequently begets confidence than does knowledge."
+
+Charles Darwin
