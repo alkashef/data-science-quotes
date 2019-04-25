@@ -1,6 +1,8 @@
 # Data Science Quotes
 
-This repository contains a collection of [quotes](Quotes.md) about data science that aim to 
+## Introduction
+
+This repository contains a collection of quotes about data science that aim to 
 summarize some of the wisdom of practicing it.
      
 **Who can contribute?**    
@@ -10,7 +12,7 @@ or are the manager of a data scientist, your contribution is welcome.
 **How do I become an author?**     
 Share your ideas in an email (alkashef@gmail.com) or a pull request.  
 
----
+## Quotes
 
 > "When you can measure what you are speaking about, and express it in numbers, 
 > you know something about it."
